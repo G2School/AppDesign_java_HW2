@@ -20,7 +20,7 @@ public class p12
 			System.out.println("輸入的是2");
 		}else
 		{
-			System.out.println("請輸入1或2");
+			System.out.println("請輸入的1或2");
 		}
 	}
 }
